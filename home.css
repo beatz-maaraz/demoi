@@ -1,0 +1,22 @@
+div{
+    background-color: rgb(75, 184, 217);
+    margin: 20px;
+    margin-top: 150px;
+    border-radius: 20px;
+    column-gap: 2px;
+}
+h1{
+    margin: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-shadow: 20px;
+    scrollbar-shadow-color:black ;
+    
+}
+form{
+    background-color: aquamarine;
+    border-radius: 25px;
+    size: 200px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
